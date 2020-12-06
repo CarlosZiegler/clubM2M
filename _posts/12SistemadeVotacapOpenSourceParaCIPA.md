@@ -4,7 +4,7 @@ excerpt: 'Sistema de Votação OpenSource para CIPA'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-12-06T05:35:07.322Z'
 author:
-  name: O Programador
+  name: Daniel Giani
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'

@@ -4,7 +4,7 @@ excerpt: 'idéia para validar TCC'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-12-06T05:35:07.322Z'
 author:
-  name: O Programador
+  name: Nome do Autor
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
